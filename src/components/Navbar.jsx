@@ -4,7 +4,7 @@ function Navbar({ search, onSearchChange }) {
     <nav className="navbar">
       <div className="navbar-left">
         <div className="avatar">
-          <span>👤</span>
+          <span>M</span>
         </div>
 
         <input
