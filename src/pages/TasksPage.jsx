@@ -1,7 +1,8 @@
 
 import { useState, useEffect } from 'react';
-import TaskCard from '../components/TaskCard';
-import TaskForm from '../components/TaskForm';
+import TaskCard from '../components/TaskCard/TaskCard';
+import TaskForm from '../components/TaskForm/TaskForm';
+import './TaskPage.css';
 
 const sampleTasks = [
   {

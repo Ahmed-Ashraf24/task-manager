@@ -1,4 +1,5 @@
 
+import './SideBar.css';
 function Sidebar() {
   return (
     <aside className="sidebar">

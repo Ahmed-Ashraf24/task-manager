@@ -1,9 +1,8 @@
 
 import './App.css';
 
-import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
-import TaskForm from './components/TaskForm';
+import Navbar from './components/NavBar/Navbar';
+import Sidebar from './components/SideBar/Sidebar';
 import TasksPage from './pages/TasksPage';
 import { useState } from 'react';
 function App() {

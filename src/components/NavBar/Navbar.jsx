@@ -1,4 +1,5 @@
 
+import './NavBar.css';
 function Navbar({ search, onSearchChange }) {
   return (
     <nav className="navbar">
