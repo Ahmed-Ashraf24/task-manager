@@ -15,7 +15,7 @@ function TaskCard({ task, onEdit, onDelete  })  {
           {task.priority}
         </span>
 
-        <button className="task-menu">•••</button>
+        
       </div>
 
       <h4>{task.title}</h4>
